@@ -1,0 +1,11 @@
+{
+    "name": "기본",
+
+    "blur": false,
+
+    "trait": {
+        "phone-portrait": "portrait.json",
+        "phone-landscape480": "landscape.json",
+        "phone-landscape568": "landscape.json",
+    },
+}

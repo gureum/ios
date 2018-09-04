@@ -1,0 +1,24 @@
+{
+    "name": "기본",
+
+    "blur": false,
+    "background": "background.png",
+    "foreground": "foreground.png",
+
+    "qwerty": {
+        "image": ["qwerty/9patch.png::18 10 10 10"],
+        "label": {
+            "font": {
+                "name": "Gill Sans",
+                "size": 15,
+                "color": "#656d75",
+            },
+            "text": null,
+            "position": [0, 4]
+        },
+    },
+    "qwerty-done": ["qwerty/80px.png", "qwerty/80px.png"],
+    "qwerty-shift": ["qwerty/shift.png", "qwerty/shift-highlight.png"],
+    "qwerty-globe": ["qwerty/globe.png", "qwerty/globe.png"],
+    "qwerty-delete": ["qwerty/delete.png", "qwerty/delete.png"],
+}

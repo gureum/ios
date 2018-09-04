@@ -1,0 +1,20 @@
+{
+    "name": "기본",
+
+    "blur": false,
+    "background": "background.png",
+    "foreground": "foreground.png",
+
+    "qwerty": {
+        "image": ["qwerty/9patch-landscape.png::14 10 10 10"],
+        "label": {
+            "font": {
+                "name": "Gill Sans",
+                "size": 15,
+                "color": "#656d75",
+            },
+            "text": null,
+            "position": [0, 2]
+        },
+    },
+}
